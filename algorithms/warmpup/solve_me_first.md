@@ -12,6 +12,7 @@ Code that reads input from stdin is provided for you in the editor. There are  l
 
 Code that prints the sum calculated and returned by solveMeFirst is provided for you in the editor.
 
+```javascript
     process.stdin.resume();
     process.stdin.setEncoding('ascii');
 
@@ -50,3 +51,4 @@ Code that prints the sum calculated and returned by solveMeFirst is provided for
         var res = solveMeFirst(a, b);
         console.log(res);
     }
+```
